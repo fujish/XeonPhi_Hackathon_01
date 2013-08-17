@@ -6,4 +6,6 @@ XeonPhi 5110P	1P/60C/240T	13.3sec
 XeonPhi 7120P	1P/61C/244T	11.1sec
 
 N=18
-icc -O3
+./qn24b_* 18
+
+icc optimization: -O3
